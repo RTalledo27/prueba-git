@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    list-style: none;
+}
